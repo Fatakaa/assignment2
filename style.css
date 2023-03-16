@@ -1,0 +1,12 @@
+#form.hide {
+  display: none;
+}
+
+body {
+  background: rgb(9, 121, 109);
+  background: linear-gradient(
+    90deg,
+    rgba(9, 121, 109, 1) 6%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
